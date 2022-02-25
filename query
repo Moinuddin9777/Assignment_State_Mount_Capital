@@ -1,0 +1,22 @@
+subscription swaps{
+swaps(first:1000, where: {pair_contains: "0xd3d2e2692501a5c9ca623199d38826e513033a17"}) {
+id
+timestamp
+amount0In
+amount1In
+amount0Out
+amount1Out
+amountUSD
+sender
+to
+logIndex
+pair {
+token0 {
+symbol
+}
+token1 {
+symbol
+}
+}
+}
+}
