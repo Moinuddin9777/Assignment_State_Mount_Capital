@@ -1,0 +1,20 @@
+{
+  "ethereum": {
+    "transfers": [
+      {
+        "currency": {
+          "symbol": "WETH"
+        },
+        "median": 2.55,
+        "average": 4.052653183133734,
+        "amount": 105214.98194051802,
+        "count": 25962,
+        "days": 161,
+        "sender_count": 1870,
+        "receiver_count": 902,
+        "min_date": "2017-08-14",
+        "max_date": "2019-11-09"
+      }
+    ]
+  }
+}
