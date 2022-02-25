@@ -1,0 +1,17 @@
+{
+          "timestamp": "1612318149",
+          "amount0In": "0",
+          "amount1In": "1",
+          "amount0Out": "80.168997125155239689",
+          "amount1Out": "0",
+          "pair": {
+            "token0": {
+              "id": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+              "symbol": "UNI"
+            },
+            "token1": {
+              "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+              "symbol": "WETH"
+            }
+          }
+        },
