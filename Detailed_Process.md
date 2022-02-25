@@ -10,4 +10,4 @@ But as per the requirement we need it in a MySQL database
 #### Step 4
 Convert all the resultant json data to Sql database over MySql workbench  
 #### Step 5
-Dockerize the whole process
+Clean the data to remove null instances and garbage data
